@@ -19,7 +19,6 @@ let  new_Value4  = Number(value6)
 let  new_Value5  = Number(value7)
 
 
-
 let new_Value6   =   Boolean(value9)
 let new_Value7   =   Boolean(value10)
 let new_Value8  =   Boolean(value3)
