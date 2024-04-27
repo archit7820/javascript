@@ -6,3 +6,4 @@ let name = "Archityadav"
   */  
 console.log(Id)
 console.table([Id , password , name] ) 
+//data type in javascript 

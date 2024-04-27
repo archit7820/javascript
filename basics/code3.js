@@ -6,7 +6,10 @@
 
  //  primitive DataTypes ::: 
 let  name  = "Archit"    // string
+//data type
+
 let age = 22      // number    range  = 2^53 
+//  big int , string type
 let is_True = false     //  boolean     
 let codingSkill =  undefined      // undefined ==> typeof =  undefined 
 //  here in javascript undefined means not defined value but the variable is already declared   . No value defined 
@@ -16,4 +19,6 @@ let codingSkill =  undefined      // undefined ==> typeof =  undefined
 // null ===>   It is a Datatype  , standalone value  , Null is a type ,  {empty value representation }  , its variable not even declared unlike in  case of undefined .
 console.table([typeof name , typeof age , typeof is_True , typeof codingSkill , null ])
 
-
+Object >> datatype ;
+//null (standalone value ,behind the sccene works as object ) >> datatype >> object ;
+undefined  >>datatype >> undefine ;
